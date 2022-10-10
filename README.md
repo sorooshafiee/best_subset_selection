@@ -13,4 +13,4 @@ conda install -c conda-forge matplotlib
 conda install -c gurobi gurobi
 ```
 ## Reference
-K{\i}l{\i}n{\c{c}}-Karzan, Fatma and K{\"u}{\c{c}}{\"u}kyavuz, Simge and Lee, Dabeen
+F. Kılınç-Karzan, S. Küçükyavuz, D. Lee, S. Shafieezadeh-Abadeh. [Conic mixed-binary sets: Convex hull characterizations and applications](https://arxiv.org/pdf/2012.14698.pdf). arXiv preprint arXiv:2012.14698 (2020).
